@@ -1,4 +1,4 @@
-namespace OilSlideUniversal
+namespace OilSlideUniversalManipula
 {
     internal static class PluginInfo
     {

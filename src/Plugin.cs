@@ -5,7 +5,7 @@ using System.IO;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace OilSlideUniversal;
+namespace OilSlideUniversalManipula;
 
 [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
 [BepInProcess("ULTRAKILL.exe")]

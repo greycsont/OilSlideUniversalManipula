@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 using System.ComponentModel;
 
-namespace OilSlideUniversal;
+namespace OilSlideUniversalManipula;
 
 public static class AudioClipLoader
 {

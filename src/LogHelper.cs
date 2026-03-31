@@ -2,6 +2,8 @@ using BepInEx.Logging;
 using System.IO;
 using System.Runtime.CompilerServices;
 
+namespace OilSlideUniversalManipula;
+
 internal static class LogHelper
 {
     internal static ManualLogSource log { get; set; }

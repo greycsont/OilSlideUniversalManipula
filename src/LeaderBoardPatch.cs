@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using HarmonyLib;
 
-namespace OilSlideUniversal;
+namespace OilSlideUniversalManipula;
 
 
 [Description("Patch from plonk, thanks :>")]

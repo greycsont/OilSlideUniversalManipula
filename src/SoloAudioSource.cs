@@ -2,7 +2,7 @@ using UnityEngine;
 
 using UnityEngine.Audio;
 
-namespace OilSlideUniversal;
+namespace OilSlideUniversalManipula;
 
 public sealed class SoloAudioSource : MonoBehaviour
 {

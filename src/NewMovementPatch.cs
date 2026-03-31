@@ -5,7 +5,7 @@ using System.Reflection.Emit;
 using HarmonyLib;
 using UnityEngine;
 
-namespace OilSlideUniversal;
+namespace OilSlideUniversalManipula;
 
 [HarmonyPatch(typeof(NewMovement))]
 public static class NewMovementPatch

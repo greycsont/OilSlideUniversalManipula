@@ -11,7 +11,7 @@ using System;
 using System.Threading.Tasks;
 using UnityEngine.Networking;
 
-namespace OilSlideUniversal;
+namespace OilSlideUniversalManipula;
 
 public static class UnitySupport
 {

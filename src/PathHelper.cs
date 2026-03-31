@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Linq;
 
 
-namespace OilSlideUniversal;
+namespace OilSlideUniversalManipula;
 
 public static class PathHelper
 {
