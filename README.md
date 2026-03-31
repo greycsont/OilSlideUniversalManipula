@@ -11,7 +11,7 @@ this tech will makes you go beyond to the limit of speedrun.
 first, paint the ground with some oil, then slamstorage on it smashing slide, if you do it right it will paradigm shift you down below, even exit this earth's atomosphere.
 
 ### What does this mod do
-this mod extends the judgement of osu's input timing and makes the hint sound more louder, no more timing hell.
+this mod extends the judgement timing window of osu and makes the hint sound more louder, no more timing hell.
 
 ### Magical, very magical world
 considering this tech as a universal clip, it was banned from speedrun.com. Aiae, this mod will block the score upload on leaderboard cuz no hacking allowed in speedrunning. 
