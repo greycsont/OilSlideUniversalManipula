@@ -26,7 +26,9 @@ public class Plugin : BaseUnityPlugin
 
     private async Task LoadMainModule()
     {
-        clip = await AudioClipLoader.LoadAudioClipAsync(Path.Combine(PathHelper.GetCurrentPluginPath(), "soft-hitnormal.ogg"));
+        var files = Directory.GetFiles(PathHelper.GetCurrentPluginPath(), "soft-hitnormal.*");
+        if (files.Length > 0)
+            clip = await AudioClipLoader.LoadAudioClipAsync(files[0]);
     }
 
     private void LoadOptionalModule()
